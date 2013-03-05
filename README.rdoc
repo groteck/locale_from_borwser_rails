@@ -2,10 +2,10 @@
 
 files added:
  app/views/application/index.html.erb
+ config/locales/es.yml
 files delete:
  public/index.html
 files change:
- config/locales/es.yml
  app/controller/application_controller.rb
  config/routes.rb
 
