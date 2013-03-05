@@ -5,6 +5,7 @@ files added:
 files delete:
  public/index.html
 files change:
+ config/locales/es.yml
  app/controller/application_controller.rb
  config/routes.rb
 
